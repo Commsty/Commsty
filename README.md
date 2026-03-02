@@ -3,15 +3,19 @@
 
 <p align="center">
   📍 Based in Russia &nbsp;|&nbsp; 
-  ✉️ <a href="https://t.me/Commsty">Telegram @Commsty</a>
+  ✉️ Contact here: <a href="https://t.me/Commsty">Telegram @Commsty</a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
-[![Skills](https://skillicons.dev/icons?i=go,c,cpp,python,docker,postgres,redis,kafka,websocket,grpc&theme=dark)](https://skillicons.dev)
+### 🛠️ Stack
 
 <p align="center">
-  <sup>Also: Docker Compose • TCP/IP • REST • Microservices</sup>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,docker,postgres,redis,kafka,websocket,grpc&theme=dark" />
+  </a>
+</p>
+
+<p align="center">
+  <sup>Also: TCP/IP • REST • Microservices</sup>
 </p>
