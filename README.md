@@ -3,7 +3,7 @@
 
 <p align="center">
   📍 Based in Russia &nbsp;|&nbsp; 
-  ✉️ Contact here: <a href="https://t.me/Commsty">Telegram @Commsty</a>
+  ✉️ Contact here: <a href="https://t.me/Commsty"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ---
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,c,cpp,python,docker,postgres,redis,kafka,websocket,grpc&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=go,c,cpp,docker,postgres,redis,kafka,arch&theme=dark" />
   </a>
 </p>
 
