@@ -2,8 +2,10 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  📍 Based in Russia &nbsp;|&nbsp; 
-  ✉️ Contact here: <a href="https://t.me/Commsty"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <span style="vertical-align: middle">📍 Based in Russia &nbsp;|&nbsp; ✉️ Contact here:</span>
+  <a href="https://t.me/Commsty" style="vertical-align: middle">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="vertical-align: middle" />
+  </a>
 </p>
 
 ---
